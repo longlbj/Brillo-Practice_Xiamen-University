@@ -1,1 +1,2 @@
 # Brillo-Practice_Xiamen-University
+英特尔推出的应用于物联网的Brillo实践的一本书
